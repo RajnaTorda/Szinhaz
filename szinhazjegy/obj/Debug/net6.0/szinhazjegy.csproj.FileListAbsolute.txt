@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\bin\Debug\net6.0\szinhazjegy.exe
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\bin\Debug\net6.0\szinhazjegy.deps.json
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\bin\Debug\net6.0\szinhazjegy.runtimeconfig.json
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\bin\Debug\net6.0\szinhazjegy.dll
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\bin\Debug\net6.0\szinhazjegy.pdb
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\obj\Debug\net6.0\szinhazjegy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\obj\Debug\net6.0\szinhazjegy.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\obj\Debug\net6.0\szinhazjegy.AssemblyInfo.cs
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\obj\Debug\net6.0\szinhazjegy.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\obj\Debug\net6.0\szinhazjegy.dll
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\obj\Debug\net6.0\refint\szinhazjegy.dll
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\obj\Debug\net6.0\szinhazjegy.pdb
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\obj\Debug\net6.0\szinhazjegy.genruntimeconfig.cache
+C:\Users\HP\source\repos\szinhazjegy\szinhazjegy\obj\Debug\net6.0\ref\szinhazjegy.dll
