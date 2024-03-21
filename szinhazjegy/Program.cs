@@ -194,9 +194,9 @@ class Program
                 var székMódosításra = felhasználóiSzékek[lehetőség - 1];
                 Console.WriteLine($"Kiválasztott szék: Sor {székMódosításra.Sor}, Szék {székMódosításra.Szám}");
 
-                Console.WriteLine("Válasszon egy lehetőséget:");
-                Console.WriteLine("1. Szék cseréje");
-                Console.WriteLine("2. Szék törlése");
+                Console.WriteLine("Biztosan akarja módosítani a széket:");
+                Console.WriteLine("1. Igen");
+                Console.WriteLine("2. Nem");
                 string módosításiLehetőség = Console.ReadLine();
 
                 switch (módosításiLehetőség)
@@ -205,11 +205,6 @@ class Program
                         SzékCsere(székMódosításra);
                         break;
                     case "2":
-                        székMódosításra.Lefoglalt = false;
-                        Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Szék {székMódosításra.Sor}, {székMódosításra.Szám} foglalás törölve.");
-                        Thread.Sleep(2000); // 2 másodperc várakozás
-                        Console.ResetColor();
                         break;
                     default:
                         Console.ForegroundColor = ConsoleColor.Red;
